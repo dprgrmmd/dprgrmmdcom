@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "dprgrmmd-site",
-  "main": "src/worker.js",
+  "main": "src/worker-classic.js",
   "compatibility_date": "2026-09-14",
   "workers_dev": true,
   "observability": {
