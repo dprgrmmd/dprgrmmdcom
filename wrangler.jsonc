@@ -8,6 +8,10 @@
     {
       "pattern": "dprgrmmd.com",
       "custom_domain": true
+    },
+    {
+      "pattern": "access.dprgrmmd.com",
+      "custom_domain": true
     }
   ],
   "observability": {
